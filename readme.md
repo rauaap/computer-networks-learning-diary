@@ -64,9 +64,13 @@ Email address:
 ### 2. Estimate how long does it take to download 3 TB file from cloud based backup service if network download throughput is 200 Mbps for actual payload (i.e. data)?
 
 Payload is 3TB in total, which in bits is:<br>
-`8 * 3Tb = 24Tb`<br>
-`24Tb = 24 000 000Mb`<br>
-Divide by throughput:<br>
+
+`8 * 3Tb = 24Tb`
+
+`24Tb = 24 000 000Mb`
+
+Divide by throughput:
+
 `24 000 000Mb / 200Mbps = 120 000s = 33h 20m`
 
 ### 3. Locate the MAC address of your mobile phone, laptop wifi interface or some other networked IT device.
